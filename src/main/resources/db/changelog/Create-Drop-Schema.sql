@@ -1,0 +1,1 @@
+CREATE SCHEMA `ru-aronbergman` DEFAULT CHARACTER SET utf8 ;
